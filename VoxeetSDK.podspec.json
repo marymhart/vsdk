@@ -6,7 +6,7 @@
   "authors": "Voxeet",
   "homepage": "https://dolby.io",
   "platforms": {
-    "ios": "9.0"
+    "ios": "11.0"
   },
   "swift_versions": "5.2.4",
   "source": {
